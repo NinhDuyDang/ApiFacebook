@@ -12,15 +12,15 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/ChuVanHoang/API-FACEBOOK-DKHM.git"
+    "url": "git+https://github.com/ninhduydang/API-FACEBOOK-DKHM.git"
   },
   "keywords": [],
   "author": "",
   "license": "ISC",
   "bugs": {
-    "url": "https://github.com/ChuVanHoang/API-FACEBOOK-DKHM.git"
+    "url": "https://github.com/ninhduydang/API-FACEBOOK-DKHM.git"
   },
-  "homepage": "https://github.com/ChuVanHoang/API-FACEBOOK-DKHM.git",
+  "homepage": "https://github.com/ninhduydang/API-FACEBOOK-DKHM.git",
   "dependencies": {
     "bcryptjs": "^2.4.3",
     "cors": "^2.8.5",
